@@ -58,3 +58,10 @@ Modern responsive developer portfolio with animations.
 - Portfolio: https://pramod-iose.vercel.app
 
 🚀 "Code. Build. Learn. Repeat."
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramod-prajapati&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-prajapati&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramod-prajapati&theme=tokyonight)
