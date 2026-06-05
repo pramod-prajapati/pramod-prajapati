@@ -8,8 +8,8 @@ Full Stack Developer | AI Enthusiast | Software Engineering Student
 ## 💫 About Me
 
 - 🎓 BCA Student
-- 💻 Full Stack Developer
-- 🤖 AI & Automation Enthusiast
+- 💻 Full Stack Developer 
+- 🤖 AI & Automation Enthusiast 
 - 🌱 Currently learning System Design & Advanced Backend Development
 - 🚀 Building real-world projects with React, Node.js, MongoDB & AI
 
